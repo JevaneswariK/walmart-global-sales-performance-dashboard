@@ -138,7 +138,7 @@ This helps identify key revenue-driving product categories.
 
 ## 📸 Dashboard Preview
 
-![Dashboard Preview](image/dashboard_preview.png)
+![Dashboard Preview](03_image/dashboard_preview.png)
 
 ---
 
